@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\IfElse\bin\Debug\netcoreapp3.1\IfElse.exe
+C:\Users\KAAN\source\c-sharp-101\IfElse\bin\Debug\netcoreapp3.1\IfElse.deps.json
+C:\Users\KAAN\source\c-sharp-101\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\IfElse\bin\Debug\netcoreapp3.1\IfElse.dll
+C:\Users\KAAN\source\c-sharp-101\IfElse\bin\Debug\netcoreapp3.1\IfElse.pdb
+C:\Users\KAAN\source\c-sharp-101\IfElse\obj\Debug\netcoreapp3.1\IfElse.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\IfElse\obj\Debug\netcoreapp3.1\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\IfElse\obj\Debug\netcoreapp3.1\IfElse.dll
+C:\Users\KAAN\source\c-sharp-101\IfElse\obj\Debug\netcoreapp3.1\IfElse.pdb
+C:\Users\KAAN\source\c-sharp-101\IfElse\obj\Debug\netcoreapp3.1\IfElse.genruntimeconfig.cache
