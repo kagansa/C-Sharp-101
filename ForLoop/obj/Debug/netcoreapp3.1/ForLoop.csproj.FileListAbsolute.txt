@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.exe
+C:\Users\KAAN\source\c-sharp-101\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.deps.json
+C:\Users\KAAN\source\c-sharp-101\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.dll
+C:\Users\KAAN\source\c-sharp-101\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.pdb
+C:\Users\KAAN\source\c-sharp-101\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.dll
+C:\Users\KAAN\source\c-sharp-101\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.pdb
+C:\Users\KAAN\source\c-sharp-101\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.genruntimeconfig.cache
