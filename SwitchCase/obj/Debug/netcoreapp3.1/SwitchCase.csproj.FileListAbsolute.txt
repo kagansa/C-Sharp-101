@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\KAAN\source\c-sharp-101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache
