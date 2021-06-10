@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\KAAN\source\c-sharp-101\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\KAAN\source\c-sharp-101\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\KAAN\source\c-sharp-101\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\KAAN\source\c-sharp-101\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\KAAN\source\c-sharp-101\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\KAAN\source\c-sharp-101\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
