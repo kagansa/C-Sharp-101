@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\bin\Debug\netcoreapp3.1\CollectionQuestion2.exe
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\bin\Debug\netcoreapp3.1\CollectionQuestion2.deps.json
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\bin\Debug\netcoreapp3.1\CollectionQuestion2.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\bin\Debug\netcoreapp3.1\CollectionQuestion2.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\bin\Debug\netcoreapp3.1\CollectionQuestion2.dll
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\bin\Debug\netcoreapp3.1\CollectionQuestion2.pdb
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\obj\Debug\netcoreapp3.1\CollectionQuestion2.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\obj\Debug\netcoreapp3.1\CollectionQuestion2.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\obj\Debug\netcoreapp3.1\CollectionQuestion2.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\obj\Debug\netcoreapp3.1\CollectionQuestion2.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\obj\Debug\netcoreapp3.1\CollectionQuestion2.dll
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\obj\Debug\netcoreapp3.1\CollectionQuestion2.pdb
+C:\Users\KAAN\source\c-sharp-101\CollectionQuestion2\obj\Debug\netcoreapp3.1\CollectionQuestion2.genruntimeconfig.cache
