@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.exe
+C:\Users\KAAN\source\c-sharp-101\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.deps.json
+C:\Users\KAAN\source\c-sharp-101\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\KAAN\source\c-sharp-101\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\KAAN\source\c-sharp-101\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\KAAN\source\c-sharp-101\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\KAAN\source\c-sharp-101\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache
