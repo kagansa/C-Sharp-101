@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\KAAN\source\c-sharp-101\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\KAAN\source\c-sharp-101\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\KAAN\source\c-sharp-101\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\KAAN\source\c-sharp-101\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\KAAN\source\c-sharp-101\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\KAAN\source\c-sharp-101\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
