@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\Methots\bin\Debug\netcoreapp3.1\Methots.exe
+C:\Users\KAAN\source\c-sharp-101\Methots\bin\Debug\netcoreapp3.1\Methots.deps.json
+C:\Users\KAAN\source\c-sharp-101\Methots\bin\Debug\netcoreapp3.1\Methots.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\Methots\bin\Debug\netcoreapp3.1\Methots.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\Methots\bin\Debug\netcoreapp3.1\Methots.dll
+C:\Users\KAAN\source\c-sharp-101\Methots\bin\Debug\netcoreapp3.1\Methots.pdb
+C:\Users\KAAN\source\c-sharp-101\Methots\obj\Debug\netcoreapp3.1\Methots.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\Methots\obj\Debug\netcoreapp3.1\Methots.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\Methots\obj\Debug\netcoreapp3.1\Methots.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\Methots\obj\Debug\netcoreapp3.1\Methots.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\Methots\obj\Debug\netcoreapp3.1\Methots.dll
+C:\Users\KAAN\source\c-sharp-101\Methots\obj\Debug\netcoreapp3.1\Methots.pdb
+C:\Users\KAAN\source\c-sharp-101\Methots\obj\Debug\netcoreapp3.1\Methots.genruntimeconfig.cache
