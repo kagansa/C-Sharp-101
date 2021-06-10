@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\KAAN\source\c-sharp-101\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\KAAN\source\c-sharp-101\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\KAAN\source\c-sharp-101\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\KAAN\source\c-sharp-101\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\KAAN\source\c-sharp-101\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\KAAN\source\c-sharp-101\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
