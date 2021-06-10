@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\bin\Debug\netcoreapp3.1\DateTimeAndMath.exe
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\bin\Debug\netcoreapp3.1\DateTimeAndMath.deps.json
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\bin\Debug\netcoreapp3.1\DateTimeAndMath.runtimeconfig.json
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\bin\Debug\netcoreapp3.1\DateTimeAndMath.runtimeconfig.dev.json
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\bin\Debug\netcoreapp3.1\DateTimeAndMath.dll
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\bin\Debug\netcoreapp3.1\DateTimeAndMath.pdb
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\obj\Debug\netcoreapp3.1\DateTimeAndMath.csproj.AssemblyReference.cache
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\obj\Debug\netcoreapp3.1\DateTimeAndMath.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\obj\Debug\netcoreapp3.1\DateTimeAndMath.AssemblyInfo.cs
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\obj\Debug\netcoreapp3.1\DateTimeAndMath.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\obj\Debug\netcoreapp3.1\DateTimeAndMath.dll
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\obj\Debug\netcoreapp3.1\DateTimeAndMath.pdb
+C:\Users\KAAN\source\c-sharp-101\DateTimeAndMath\obj\Debug\netcoreapp3.1\DateTimeAndMath.genruntimeconfig.cache
